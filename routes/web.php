@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AuthController;
-
+use App\Http\Controllers\BookController;
 
 /*
 |--------------------------------------------------------------------------
@@ -15,8 +15,9 @@ use App\Http\Controllers\AuthController;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-Route::get('/me', [AuthController::class, 'index']);
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+// Route::get('/me', [AuthController::class, 'index']);
+
 
