@@ -1,2 +1,1 @@
-Halooo, percuma dibuka ini cuma percobaan 
-Maaf ya:)
+Halooo, Saya Atina dari XII RPL 1
